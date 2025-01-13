@@ -1,4 +1,10 @@
-# Eric Shreve
+<div align="center">
+  <h1>Eric Shreve</h1>
+  <img src="https://media1.tenor.com/m/lIMtjiAYuT8AAAAd/breezy-hacker.gif" />
+</div>
+
+---
+
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust&logoColor=white) 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
@@ -46,5 +52,6 @@ My experience spans **systems programming**, **high-level application developmen
 ---
 
 ### 🚀 Connect with Me  
-- [GitHub Profile](https://github.com/Sk3pz) (you are here!)  
-- [Email](ericshreve02@gmail.com)  
+- [GitHub Profile](https://github.com/Sk3pz) (you are here!)
+- [Linkedin](https://www.linkedin.com/in/eric-shreve-a383172b4/)  
+- Email me at ericshreve02@gmail.com
