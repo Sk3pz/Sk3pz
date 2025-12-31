@@ -51,7 +51,7 @@ My experience spans **systems programming**, **high-level application developmen
 ### 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-skepzs-projects.vercel.app/api?username=Sk3pz&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sk3pz&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats-git-master-skepzs-projects.vercel.app/api/top-langs/?username=Sk3pz&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sk3pz&layout=compact&theme=tokyonight" />
 </div>
