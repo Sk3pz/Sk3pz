@@ -24,7 +24,7 @@
 ---
 
 ### 👋 About Me  
-Hello! My name is **Eric Shreve**, and I am a passionate self-taught programmer with 8 years of experience writing code. I have a diverse skill set that spans **systems programming**, **high-level application development**, **networking**, and **embedded programming**. Whether working solo or collaborating within a team, I thrive on tackling complex problems, building efficient systems, and creating impactful software. My journey has been driven by curiosity and a dedication to mastering both the low-level intricacies of systems and the high-level frameworks that power modern applications.
+Hello! My name is **Eric Shreve**, and I am a passionate self-taught programmer with 9 years of experience writing code. I have a diverse skill set that spans **systems programming**, **high-level application development**, **networking**, and **embedded programming**. Whether working solo or collaborating within a team, I thrive on tackling complex problems, building efficient systems, and creating impactful software. My journey has been driven by curiosity and a dedication to mastering both the low-level intricacies of systems and the high-level frameworks that power modern applications.
 
 ---
 
